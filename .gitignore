@@ -8,3 +8,4 @@ cabal-dev
 site
 _cache
 _site
+.sass-cache
