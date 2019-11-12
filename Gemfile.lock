@@ -28,7 +28,7 @@ GEM
       compass (>= 0.12.0)
     erubis (2.7.0)
     execjs (2.2.0)
-    ffi (1.9.3)
+    ffi (1.11.2)
     font-awesome-middleman (4.0.3)
       middleman (>= 3.0.0)
     haml (4.0.5)
