@@ -6,4 +6,4 @@ gem "compass-h5bp", "~> 0.1.2"
 gem "susy", "~> 2.2.14"
 gem "compass-normalize"
 
-gem "font-awesome-middleman", "~> 4.0.3"
+gem "font-awesome-middleman", "~> 4.5.0"
